@@ -1,5 +1,5 @@
 - 👋 hi, im rohan
-- 🌱 I’m currently learning java lol
+- 🌱 I’m currently learning java
 - :pensive: spent 2 years learning vb only to realize it has no use gang
 
 <!---
