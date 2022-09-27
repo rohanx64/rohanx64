@@ -1,3 +1,4 @@
+![](https://media.giphy.com/media/xTk9ZY0C9ZWM2NgmCA/giphy.gif)
 # 👋 hi, im Rohan
 ## 🌱 I’m currently learning java
 ### :book: studying at IBA karachi as of right now
