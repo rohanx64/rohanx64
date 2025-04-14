@@ -1,7 +1,7 @@
 # 👋 Hi, im Rohan
 ## Im currently pursuing BSCS in IBA Karachi
 ### Im generally interested in systems design, software engineering and game development
-### i also work as a digital artist in my spare time
+### I also work as a digital artist in my spare time
 
 
 <!---
