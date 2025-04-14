@@ -1,6 +1,7 @@
-![](https://media.giphy.com/media/xTk9ZY0C9ZWM2NgmCA/giphy.gif)
-# 👋 hi, im Rohan
-## 🌱 I’m currently learning java
+# 👋 Hi, im Rohan
+## Im currently pursuing BSCS in IBA Karachi
+### Im generally interested in systems design, software engineering and game development
+### i also work as a digital artist in my spare time
 
 
 <!---
